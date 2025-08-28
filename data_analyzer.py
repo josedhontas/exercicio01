@@ -35,7 +35,6 @@ def analyze_and_plot(input_csv="ping_log.csv"):
 
     plt.figure(figsize=(10, 6))
     
-    # ALTERAÇÃO 1: Aumentamos o número de bins de 20 para 75 para criar intervalos menores
     plt.hist(pings, bins=75, color='skyblue', edgecolor='black')
     
     plt.title("Histograma dos Pings")
@@ -48,7 +47,6 @@ def analyze_and_plot(input_csv="ping_log.csv"):
     if isinstance(moda, float):
         plt.axvline(moda, color='orange', linestyle='dashed', linewidth=1.5, label=f'Moda: {moda:.2f}')
 
-    # ALTERAÇÃO 2: Adicionamos um limite ao eixo X para "dar um zoom" na área de interesse
     plt.xlim(left=0, right=10)
 
     plt.legend()
