@@ -1,5 +1,5 @@
 # Análise de Latência de Rede (Ping RTT)
-##Aluno: José Dhonatas Alves Sales
+## Aluno: José Dhonatas Alves Sales
 
  Exercício n. 1 de sumarização de dados de medição
 
