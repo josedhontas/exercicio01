@@ -20,13 +20,12 @@ Scripts em Python para coletar e analisar o tempo de resposta (ping) do gateway 
 O script gera o histograma e as métricas de tendência central para responder às questões da atividade.
 
 ### Histograma dos Pings
+<img width="922" height="569" alt="image" src="https://github.com/user-attachments/assets/134d2a27-7276-49a5-8425-78da6280943a" />
 
-![Histograma dos Pings](histograma_pings.png)
 
 ### Conclusões do Exercício
 
 1.  **A distribuição é simétrica ou assimétrica?**
-    É uma **distribuição assimétrica positiva** (ou à direita). A maioria dos dados se concentra em valores baixos, com uma cauda longa se estendendo para a direita devido a pings mais altos e menos frequentes (outliers).
-
+    É uma distribuição assimétrica (ou à direita). A maioria dos dados se concentra em valores baixos, tem poucos outliers. 
 2.  **Qual índice de tendência central é mais representativo?**
-    A **Mediana** é o índice mais representativo. Diferente da Média, ela não é afetada pelos valores extremos (outliers) da cauda. Portanto, a Mediana descreve melhor o comportamento *típico* e a latência mais comum da rede.
+    Nesse caso ai seria a mediana o índice mais representativo. A média é afetava por outras coisas, como os valores outliers. Desse modo, a mediana descreve o comportamento mais normal da minha rede.
