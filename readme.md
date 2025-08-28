@@ -1,6 +1,6 @@
 # Análise de Latência de Rede (Ping RTT)
 
-Scripts em Python para coletar e analisar o tempo de resposta (ping) do gateway de rede, conforme solicitado no "Exercício n. 1 de sumarização de dados de medição".
+ Exercício n. 1 de sumarização de dados de medição
 
 ## 🚀 Como Executar
 
@@ -26,6 +26,6 @@ O script gera o histograma e as métricas de tendência central para responder �
 ### Conclusões do Exercício
 
 1.  **A distribuição é simétrica ou assimétrica?**
-    É uma distribuição assimétrica (ou à direita). A maioria dos dados se concentra em valores baixos, tem poucos outliers. 
+    É uma distribuição assimétrica. A maioria dos dados se concentra em valores baixos, tem poucos outliers. 
 2.  **Qual índice de tendência central é mais representativo?**
     Nesse caso ai seria a mediana o índice mais representativo. A média é afetava por outras coisas, como os valores outliers. Desse modo, a mediana descreve o comportamento mais normal da minha rede.
