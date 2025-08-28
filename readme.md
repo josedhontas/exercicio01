@@ -28,4 +28,4 @@
 1.  **A distribuição é simétrica ou assimétrica?**
     É uma distribuição assimétrica. A maioria dos dados se concentra em valores baixos, tem poucos outliers. 
 2.  **Qual índice de tendência central é mais representativo?**
-    Nesse caso ai seria a mediana o índice mais representativo. A média é afetava por outras coisas, como os valores outliers. Desse modo, a mediana descreve o comportamento mais normal da minha rede.
+    Nesse caso ai seria a mediana o índice mais representativo. A média é afetada por outras coisas, como os valores outliers. Desse modo, a mediana descreve o comportamento mais normal da minha rede.
