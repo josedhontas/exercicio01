@@ -14,7 +14,7 @@
     ```bash
     python main.py
     ```
-    - O script vai pegar 100 amostras de ping (se o arquivo `ping_log.csv` não existir) e depois vai mostrar o histograma pedido na atividade da quinta passada.
+    - O script vai pegar 100 amostras de ping (se o arquivo `ping_log.csv` não existir) e depois vai mostrar o histograma.
 
 ## 📊 Resultados e Análise
 
