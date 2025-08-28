@@ -1,4 +1,5 @@
 # Análise de Latência de Rede (Ping RTT)
+##Aluno: José Dhonatas Alves Sales
 
  Exercício n. 1 de sumarização de dados de medição
 
@@ -17,7 +18,6 @@
 
 ## 📊 Resultados e Análise
 
-O script gera o histograma e as métricas de tendência central para responder às questões da atividade.
 
 ### Histograma dos Pings
 <img width="922" height="569" alt="image" src="https://github.com/user-attachments/assets/134d2a27-7276-49a5-8425-78da6280943a" />
